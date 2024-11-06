@@ -1,18 +1,18 @@
 {
-    "id": "3A6EE230",
-    "path": "~/github/Jonas-Firmiano.github.io/blog.html",
-    "project_path": "blog.html",
+    "id": "2E34D32E",
+    "path": "~/github/Jonas-Firmiano.github.io/_includes/card_list.html",
+    "project_path": "_includes/card_list.html",
     "type": "html",
     "hash": "0",
     "contents": "",
-    "dirty": true,
-    "created": 1730909826112.0,
+    "dirty": false,
+    "created": 1730911154195.0,
     "source_on_save": false,
-    "relative_order": 10,
+    "relative_order": 16,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,0",
+        "cursorPosition": "6,26",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730909920892,
+    "last_content_update": 1730901700,
     "read_only": false,
     "read_only_alternatives": []
 }

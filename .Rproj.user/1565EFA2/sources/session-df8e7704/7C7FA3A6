@@ -1,19 +1,17 @@
 {
-    "id": "51D3CC45",
-    "path": "~/github/Jonas-Firmiano.github.io/_layouts/default.html",
-    "project_path": "_layouts/default.html",
+    "id": "7C7FA3A6",
+    "path": "~/github/Jonas-Firmiano.github.io/_includes/post_list.html",
+    "project_path": "_includes/post_list.html",
     "type": "html",
-    "hash": "0",
+    "hash": "1123576277",
     "contents": "",
     "dirty": false,
-    "created": 1730909780670.0,
+    "created": 1730911213361.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 19,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "37,0",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1730901701,

@@ -1,19 +1,17 @@
 {
-    "id": "BDD41902",
-    "path": "~/github/Jonas-Firmiano.github.io/_layouts/home.html",
-    "project_path": "_layouts/home.html",
+    "id": "6D3C76C0",
+    "path": "~/github/Jonas-Firmiano.github.io/_includes/date_and_social_share.html",
+    "project_path": "_includes/date_and_social_share.html",
     "type": "html",
-    "hash": "0",
+    "hash": "57495435",
     "contents": "",
     "dirty": false,
-    "created": 1730909790151.0,
+    "created": 1730911176962.0,
     "source_on_save": false,
-    "relative_order": 7,
+    "relative_order": 18,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "10,20",
-        "scrollLine": "5"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1730901701,
