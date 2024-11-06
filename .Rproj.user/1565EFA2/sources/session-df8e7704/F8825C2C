@@ -3,7 +3,7 @@
     "path": "~/github/Jonas-Firmiano.github.io/_config.yml",
     "project_path": "_config.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "1605096797",
     "contents": "",
     "dirty": false,
     "created": 1730913068086.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "86,3",
-        "scrollLine": "79"
+        "cursorPosition": "335,20",
+        "scrollLine": "319"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730913427,
+    "lastKnownWriteTime": 1730914944,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730913427830,
+    "last_content_update": 1730914944274,
     "read_only": false,
     "read_only_alternatives": []
 }

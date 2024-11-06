@@ -323,3 +323,14 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+header_menu:
+  - title: "Início"
+    url: "/"
+  - title: "Sobre"
+    url: "/about/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Contato"
+    url: "/contact/"
